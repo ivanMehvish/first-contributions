@@ -13,6 +13,7 @@ pnordboj
 - [Ryan Ignasiak](https://github.com/theravenousR)
 - [Yash Wake](https://github.com/yashwxd)
 - Praveen Bhawantha
+- [Mehvish Fatima](https://github.com/ivanMehvish)
 - [Gabriel Fernandes](https://github.com/GabrielFernandes251)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
